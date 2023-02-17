@@ -1,0 +1,2 @@
+../lwip/contrib/apps/tcpecho/tcpssn.c:11:13:tcpssn_thread	1064	static
+../lwip/contrib/apps/tcpecho/tcpssn.c:56:6:tcpssn_init	16	static

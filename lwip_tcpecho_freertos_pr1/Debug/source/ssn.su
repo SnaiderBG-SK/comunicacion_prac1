@@ -1,0 +1,4 @@
+../source/ssn.c:12:7:ssn_connect	40	static
+../source/ssn.c:28:7:ssn_transmit	800	static
+../source/ssn.c:65:7:ssn_receive	808	static
+../source/ssn.c:115:13:initCrc32	32	static
